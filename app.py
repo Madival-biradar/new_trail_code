@@ -78,3 +78,5 @@ output3 = identify_shapes(shelf_layout3)
 print(output1)
 print(output2)
 print(output3)
+
+print('adding the new features')
